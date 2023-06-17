@@ -32,6 +32,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeevan-kishore&show_icons=true&locale=en&layout=compact" alt="jeevan-kishore" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeevan-kishore&show_icons=true&locale=en" alt="jeevan-kishore" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeevan-kishore&show_icons=true&locale=en&include_all_commits=true&hide_rank=true&&theme=radical&show_total_reviews=true" alt="jeevan-kishore" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeevan-kishore&" alt="jeevan-kishore" /></p>
