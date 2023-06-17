@@ -4,7 +4,7 @@ on:
         - cron: '0 * * * *'
     push:
         branches:
-        - main  # Replace with the desired branch name
+        - main
 jobs: 
     update-readme-with-blog: 
         name: Update this repo's README with latest blog posts
