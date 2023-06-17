@@ -15,6 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Real world use cases of object proxies](https://dev.to/jeevankishore/real-world-use-cases-of-object-proxies-3d87)
+- [Customized payment UPI QR code generation](https://dev.to/jeevankishore/upi-qr-code-generation-4k8a)
+- [Run android emulator on CircleCI](https://dev.to/jeevankishore/run-android-emulator-on-circleci-2n75)
+- [React native end to end testing on CircleCI](https://dev.to/jeevankishore/react-native-end-to-end-testing-on-circleci-2dib)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
