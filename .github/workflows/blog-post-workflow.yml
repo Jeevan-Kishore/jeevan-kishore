@@ -15,5 +15,5 @@ jobs:
               with: 
                 max_post_count: "10"
                 feed_list: "https://dev.to/feed/jeevankishore"
-                template: "<tr><td> $randomEmoji(💯,🔥,💫,🚀,🌮) [$title]($url) </td><td> <code>$categories</code> </td></tr>"
+                template: "<tr><td> <a href='$url'> $randomEmoji(💯,🔥,💫,🚀,🌮) $title </a></td><td> <code>$categories</code> </td></tr>"
                 
