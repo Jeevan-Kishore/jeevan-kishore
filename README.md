@@ -27,7 +27,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeevan-kishore&show_icons=true&locale=en&include_all_commits=true&hide_rank=true&&theme=radical&show_total_reviews=true" alt="jeevan-kishore" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeevan-kishore&margin-w=15&margin-h=15&no-bg=false&theme=nord&row=2&column=1&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="jeevan-kishore-trophies" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeevan-kishore&margin-w=15&margin-h=15&no-bg=false&theme=nord&row=2&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="jeevan-kishore-trophies" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
