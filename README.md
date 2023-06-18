@@ -19,7 +19,7 @@
 
 <table>
   <tr><th>Title</th><th>Categories</th></tr>
-  <!-- STACKOVERFLOW:START --><!-- STACKOVERFLOW:END -->
+  <!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 </table>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeevan-kishore&" alt="jeevan-kishore" /></p>
