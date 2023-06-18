@@ -18,7 +18,7 @@
 ### Recent Blogs
 
 <table>
-  <tr><th>Title</th><th>Link</th></tr>
+  <tr><th>Title</th><th>Categories</th></tr>
   <!-- STACKOVERFLOW:START --><!-- STACKOVERFLOW:END -->
 </table>
 
