@@ -13,16 +13,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeevan-kishore" alt="jeevan-kishore" /></a> </p>
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
- - 💫[Real world use cases of object proxies](https://dev.to/jeevankishore/real-world-use-cases-of-object-proxies-3d87)
- - 💯[Customized payment UPI QR code generation](https://dev.to/jeevankishore/upi-qr-code-generation-4k8a)
- - 🔥[Run android emulator on CircleCI](https://dev.to/jeevankishore/run-android-emulator-on-circleci-2n75)
- - 💫[React native end to end testing on CircleCI](https://dev.to/jeevankishore/react-native-end-to-end-testing-on-circleci-2dib)
- - 🚀[Memory leak by anonymous functions](https://dev.to/jeevankishore/memory-leak-by-anonymous-functions-77p)
- - 🚀[Build pagination with ES6 async generators and iterables](https://dev.to/jeevankishore/build-pagination-with-es6-async-generators-and-iterables-4l4p)
- - 💯[End to End Testing with Detox on React-Native](https://dev.to/jeevankishore/e2e-detox-react-native-161o)
- - 🚀[React navigation v5](https://dev.to/jeevankishore/react-native-navigation-v5-45e0)<!-- BLOG-POST-LIST:END -->
+
+
+### Recent Blogs
+
+<table>
+  <tr><th>Title</th><th>Link</th></tr>
+  <!-- STACKOVERFLOW:START --><!-- STACKOVERFLOW:END -->
+</table>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeevan-kishore&" alt="jeevan-kishore" /></p>
 
