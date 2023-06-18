@@ -11,9 +11,6 @@
 
 - 📫 How to reach me **kishor080@gmail.com**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeevan-kishore" alt="jeevan-kishore" /></a> </p>
-
-
 
 ### Recent Blogs
 
@@ -22,17 +19,23 @@
   <!-- BLOG-POST-LIST:START --><tr><td> <a href='https://dev.to/jeevankishore/real-world-use-cases-of-object-proxies-3d87'> 💫 Real world use cases of object proxies </a></td><td> <code>javascript, webdev, programming, react</code> </td></tr><tr><td> <a href='https://dev.to/jeevankishore/upi-qr-code-generation-4k8a'> 💯 Customized payment UPI QR code generation </a></td><td> <code>javascript, react, webdev, beginners</code> </td></tr><tr><td> <a href='https://dev.to/jeevankishore/run-android-emulator-on-circleci-2n75'> 🔥 Run android emulator on CircleCI </a></td><td> <code>javascript, circleci, android, ios</code> </td></tr><tr><td> <a href='https://dev.to/jeevankishore/react-native-end-to-end-testing-on-circleci-2dib'> 💫 React native end to end testing on CircleCI </a></td><td> <code>reactnative, circleci, javascript, android</code> </td></tr><tr><td> <a href='https://dev.to/jeevankishore/memory-leak-by-anonymous-functions-77p'> 🚀 Memory leak by anonymous functions </a></td><td> <code>javascript, react, webdev, beginners</code> </td></tr><tr><td> <a href='https://dev.to/jeevankishore/build-pagination-with-es6-async-generators-and-iterables-4l4p'> 🚀 Build pagination with ES6 async generators and iterables </a></td><td> <code>javascript, react, beginners, reactnative</code> </td></tr><tr><td> <a href='https://dev.to/jeevankishore/e2e-detox-react-native-161o'> 💯 End to End Testing with Detox on React-Native </a></td><td> <code>reactnative, automation, javascript, testing</code> </td></tr><tr><td> <a href='https://dev.to/jeevankishore/react-native-navigation-v5-45e0'> 🚀 React navigation v5 </a></td><td> <code>reactnative, react, javascript, reactnavigation</code> </td></tr><!-- BLOG-POST-LIST:END -->
 </table>
 
+### Some stats 
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeevan-kishore&" alt="jeevan-kishore" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeevan-kishore&show_icons=true&locale=en&layout=donut-vertical" alt="jeevan-kishore" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeevan-kishore&show_icons=true&locale=en&include_all_commits=true&hide_rank=true&&theme=radical&show_total_reviews=true" alt="jeevan-kishore" /></p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeevan-kishore&margin-w=15&margin-h=15&no-bg=false&theme=nord&row=2&column=2&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="jeevan-kishore-trophies" /></a> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/jeevankishore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jeevankishore" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jeevan-kishore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeevan-kishore" height="30" width="40" /></a>
 </p>
+
+<br />
 
 <h3 align="left">Languages and Tools:</h3>
 
